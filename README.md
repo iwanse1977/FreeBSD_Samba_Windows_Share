@@ -5,12 +5,19 @@ Samba is the answer, with Samba all your work can be completed easily on one net
 #Samba Server Specifications
 
 OS: FreeBSD 13.2
+
 Hostname: ns3
+
 IP Address: 192.168.5.2
+
 interfaces = nfe0
+
 Samba Version: samba416
+
 Python Version: python39
+
 Dependencies: p5-Parse-Yapp, libiconv, curl, py-wsdd
+
 
 For More Information, Please visit:
 https://www.unixwinbsd.site/2024/02/freebsd-connecting-to-windows-network.html
